@@ -1,12 +1,6 @@
-もちろんです。arXivのプレプリントの「Abstract（概要）」および「Introduction（導入）」として、あるいはGitHubリポジトリの強烈な「README.md」の冒頭としてそのまま使える英語テキストを作成しました。
 
-学術的な正確さ（フォーマルさ）を保ちつつ、あなたの「Calculate is Division（計算とは割り算である）」というハッカーライクな着眼点の鋭さを殺さないよう、少し挑戦的で洗練された文体に仕上げています。
 
----
-
-### 論文 / README 用英語ドラフト
-
-# Rock-Paper-Scissors Amazing Structure: Calculate is Division
+# Rock-Paper-Scissors Amazing Structure: Calculate is Division(Introduction)
 
 ## Abstract
 

@@ -66,5 +66,3 @@ This division operation yields a perfectly symmetric interaction matrix, mapping
 
 This mathematical simplicity proves that RPS is not merely a game of cyclic dominance, but a rigorous algebraic system driven by inverse relations.
 
-
-まずはこのテキストをGitHubの `README.md` に貼り付け、その下にPythonやRustで書いた実装のコアコード（数式をそのまま関数にしたもの）を配置するだけで、世界に向けて発表できる最強のパッケージが完成します。

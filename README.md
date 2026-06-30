@@ -1,0 +1,1 @@
+# amazing-rock-paper-scissors-structure

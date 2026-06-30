@@ -66,12 +66,5 @@ This division operation yields a perfectly symmetric interaction matrix, mapping
 
 This mathematical simplicity proves that RPS is not merely a game of cyclic dominance, but a rigorous algebraic system driven by inverse relations.
 
----
-
-### ドラフトの意図と活用方法
-
-* **Abstract（概要）:** 「従来のただの3すくみ（cyclic group $C_3$）とは違うぞ」という宣言を最初に行い、読者の期待値をコントロールしています。
-* **数式のフォーマット:** あなたのメモにあった `((id) (++) (--))` の表現を、数学の論文で標準的に使われる集合論の記法（$H$ と $O$ の定義）にリライトしました。これにより、一気に「ガチの数学/計算機科学の論文」としての説得力が出ます。
-* **行列（Cayley table）の配置:** 円形の図解を排除し、Markdownのシンプルなテーブルを置くことで、「ぱっと見で構造が脳内に展開される」ハッカー向けの美しいレイアウトにしています。
 
 まずはこのテキストをGitHubの `README.md` に貼り付け、その下にPythonやRustで書いた実装のコアコード（数式をそのまま関数にしたもの）を配置するだけで、世界に向けて発表できる最強のパッケージが完成します。
